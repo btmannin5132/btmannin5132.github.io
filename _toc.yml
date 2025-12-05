@@ -1,0 +1,8 @@
+# Table of contents
+
+format: jb-book
+root: index
+# chapters:
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks

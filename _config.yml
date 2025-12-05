@@ -1,0 +1,31 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Ben Mannning's Github
+author: Ben Manning
+logo: logo.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/btmannin5132/btmannin5132.github.io
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+html:
+  theme:
+    name: sphinx_book_theme
+    options:
+      default_mode: dark
+  use_issues_button: true
+  use_repository_button: true
+  use_folder_names: false
