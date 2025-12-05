@@ -2,9 +2,9 @@
 
 format: jb-book
 root: index
+title: Welcome
 
-chapters:
-  - file: README
+#chapters:
 # - file: markdown
 # - file: notebooks
 # - file: markdown-notebooks
