@@ -4,7 +4,7 @@ format: jb-book
 root: index
 
 chapters:
-  - file: readme
+  - file: README
 # - file: markdown
 # - file: notebooks
 # - file: markdown-notebooks

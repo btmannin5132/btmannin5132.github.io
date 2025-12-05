@@ -18,6 +18,7 @@ latex:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/btmannin5132/btmannin5132.github.io
+  path_to_book: root
   branch: gh-pages 
 
 # Add GitHub buttons to your book
