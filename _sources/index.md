@@ -10,7 +10,7 @@ My name is Ben Manning.  I am a lecturer for the College of Engineering at Purdu
 
 ## Personal Projects
 
-I am most known by my students and colleagues for my different personal project that I stumble into.  Feel free to check out some of my favorites on my teaching portfolio site here: https://btmannin5132.github.io/teach/projects.html
+I am most known by my students and colleagues for my different personal projects that I stumble into.  Feel free to check out some of my favorites in my teaching portfolio here: https://btmannin5132.github.io/teach/projects.html
 
 ## Noteable Websites
 
