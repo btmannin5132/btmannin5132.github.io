@@ -4,7 +4,13 @@ format: jb-book
 root: index
 title: Welcome
 
-#chapters:
+chapters:
+  - title: Teaching Portfolio
+    url: https://btmannin5132.github.io/teach/
+  - title: Reverse Engineering Course
+    url: https://btmannin5132.github.io/RevEng/
+  - title: First Year Engineering Course
+    url: https://btmannin5132.github.io/133Teach/
 # - file: markdown
 # - file: notebooks
 # - file: markdown-notebooks
