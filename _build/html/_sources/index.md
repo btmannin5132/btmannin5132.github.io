@@ -4,7 +4,7 @@
 
 My name is Ben Manning.  I am a lecturer for the College of Engineering at Purdue University, and a born tinkerer.  Feel free to check out my different projects including my teaching portfolio and different teaching websites.
 
-[**Resume**](https://btmannin5132.github.io/teach/resume.html)
+[**Resume**](https://btmannin5132.github.io/resume.html)
 
 [**General Github Page**](https://github.com/btmannin5132/)
 
