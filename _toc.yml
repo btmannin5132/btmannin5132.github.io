@@ -5,6 +5,8 @@ root: index
 title: Welcome
 
 chapters:
+  - file: resume
+    title: "Resume"
   - title: Teaching Portfolio
     url: https://btmannin5132.github.io/teach/
   - title: Reverse Engineering Course
