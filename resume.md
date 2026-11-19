@@ -173,6 +173,9 @@ Purdue ECE
 **Railside Robotics-Combat Robotics Team** | Founding/Lead Advisor: 2023-Present
 Purdue University
 
+**Toybox at Purdue** | Founding/Lead Advisor: 2026-Present
+Purdue University
+
 **FIRST Robotics** | Lead Mentor: 2018-2021
 Team 5132 (FRC) and Team 18597 (FTC)
 
